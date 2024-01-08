@@ -117,3 +117,42 @@
     height: 100px;
     width: 100px;
 }
+.portfolio{
+    background-color: bisque;
+    margin: 30px 80px;
+    padding: 25px;
+}
+.port h1{
+    font-size: 15px;
+    color: red;
+    padding: 10px 10px 0 10px;
+}
+.port h2{
+    font-size: 25px;
+    padding: 0 10px;
+
+}
+.port p{
+    font-size: 12px;
+    padding: 0 10px;
+
+
+}
+.pic-1 {
+    display: flex;
+}
+.pic-1 img{
+    height: 230px;
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.pic-2{
+    display: flex;
+}
+.pic-2 img{
+    height: 230px;
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
